@@ -1,6 +1,8 @@
 # react-data-grid
 
 > The core of react-data-grid
+> Fork includes update to selected Cell checkbox 
+> to enable easier touch input
 
 
 ## Install
